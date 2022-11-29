@@ -11,3 +11,4 @@ The colab notebooks are as follows:
 
 3. opt_prompting.ipynb - This notebook uses prompting to generate templates for gpt-3. It evaluates the performance of these prompts on the rte dataset.
 
+4. PoolOfPrompts.ipynb - This notebook analyzes some of the attributes of the collection of prompts in P3.
